@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My 1st Blog",
+      "body": "My name is Soutrik Acharya. I'm currently pursuing Electronics and Communication Engineering from University of Calcutta",
+      "author": "soutrik",
+      "id": 1
+    },
+    {
+      "title": "My 2nd Blog",
+      "body": "My name is Soutrik Acharya. I'm currently pursuing Electronics and Communication Engineering from University of Calcutta",
+      "author": "soukhin",
+      "id": 2
+    }
+  ]
+}
